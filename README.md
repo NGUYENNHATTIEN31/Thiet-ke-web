@@ -13,8 +13,7 @@
              <li>bóng đá</li> 
              <li>ca hát</li>
              <li>vẽ</li>
-            </ol>
-
+             </ol> 
            </body>
  </html>
 
