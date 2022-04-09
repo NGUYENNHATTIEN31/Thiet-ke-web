@@ -1,8 +1,6 @@
 <!DOCTYPE html>
   <html>
        <head>
-       <title>giới thiệu bản thân 
-       </title>
       </head>
             <body>
             <h1>GIỚI THIỆU BẢN THÂN</h1> 
